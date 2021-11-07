@@ -60,7 +60,7 @@ function starQuiz(){
     gametime()
 }
 btnScore.addEventListener("click" , function(){
-    let name = document.getElementById("inputScore").value
+    var name = document.getElementById("inputScore").value
     scorePage(name, count)
 });
 // Time set
