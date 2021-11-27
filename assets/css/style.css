@@ -1,7 +1,7 @@
 body,html{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    background-image: url(/assets/images/quiz-backgruond.jpg);
+    background-image: url(./assets/images/quiz-backgruond.jpg);
     height: 100%;
 }
 .game-box{
